@@ -1,0 +1,74 @@
+body{
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #f4f4f2;
+  color: #495464;
+}
+p{
+  font-size: 0.85rem;
+}
+
+.navbar{
+  background-color: #f4f4f2;
+
+}
+.navbar-brand{
+  font-family: 'Baloo Chettan 2', cursive;
+  font-weight: 900;
+  color : rgba(0,0,0, 0.9);
+  text-align : left;
+}
+
+.intro{
+  min-height: 100vh;
+  width: 100%;
+  filter : grayscale(80%);
+  opacity:  0.8;
+}
+
+
+.recent-project{
+  padding-top : 7.5%;
+  padding-bottom : 7.5%;
+}
+
+.sub-title{
+  font-size: 1.5rem;
+}
+
+.project{
+  padding-bottom: 25% ;
+}
+
+
+.input{
+  color : #ffff;
+  background-color: #bbbbbe;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+.input-group{
+  margin: auto auto 1.5%;
+  width: 75%;
+
+}
+.btn {
+  width: 25%;
+  font-size: 0.75rem;
+
+}
+
+.space{
+  padding:12.5%;
+}
+
+.footer{
+  padding-top: 7.5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 7.5%;
+  text-align: left;
+
+  background-color: #e8e8e8;
+}
